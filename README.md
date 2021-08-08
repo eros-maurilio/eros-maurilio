@@ -1,6 +1,7 @@
 ### Olá 👋
-- 📚 Estou aprendendo a programar
-- 🎓 Sou estudande na Apple Developer Academy
+- 🧠 Bacharel em Psicologia tornando-se Dev
+- 📚 Aprendendo Swift
+- 🎓 Estudande na Apple Developer Academy Curitiba
 ##
 
  <div>
