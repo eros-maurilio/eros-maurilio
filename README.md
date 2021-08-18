@@ -1,5 +1,5 @@
 ### Olá 👋
-- 🧠 Bacharel em Psicologia tornando-se Dev
+- 🧠 Bacharel em Psicologia virando Dev
 - 📚 Aprendendo Swift
 - 🎓 Estudande na Apple Developer Academy Curitiba
 ##
