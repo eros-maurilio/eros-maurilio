@@ -1,6 +1,6 @@
 ### Olá 👋
 - 🧠 Bacharel em Psicologia no caminho para se tornar um Dev
-- 📚 Aprendendo Swift
+- 📚 Swift
 - 🎓 Estudande na Apple Developer Academy Curitiba
   
    ##
