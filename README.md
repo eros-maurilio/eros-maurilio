@@ -1,7 +1,9 @@
 ### Olá 👋
-- 🧠 Bacharel em Psicologia no caminho para se tornar um Dev
+- 🧠 Bacharel em Psicologia
+- 📱 Junior iOS Developer @iti Itaú
 - 📚 Swift
 - 🎓 Estudande na Apple Developer Academy Curitiba
+- 👾 Pós graduando em Desenvolvimento de Aplicativos Móveis
   
    ##
  
