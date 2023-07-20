@@ -1,9 +1,8 @@
 ### Olá 👋
-- 🧠 Bacharel em Psicologia
-- 📱 Junior iOS Developer @iti Itaú
-- 📚 Swift
-- 🎓 Estudande na Apple Developer Academy Curitiba
-- 👾 Pós graduando em Desenvolvimento de Aplicativos Móveis
+- 🧠 Psychology Bachelor
+- 📱 iOS Developer @Itaú
+- 🎓 Apple Developer Academy Alumni
+- 👾 Post-degree in Mobile Development
   
    ##
  
