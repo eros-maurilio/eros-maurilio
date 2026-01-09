@@ -1,8 +1,8 @@
 ### Olá 👋
 - 🧠 Psychology Bachelor
-- 📱 iOS Developer @Itaú
+- 📱 iOS Developer
 - 🎓 Apple Developer Academy Alumni
-- 👾 Post-degree in Mobile Development
+- 👾 Post-graduated in Mobile Development
   
    ##
  
